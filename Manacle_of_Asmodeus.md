@@ -1,0 +1,1 @@
+Owned by [Straggo De'mryn](/Straggo_De'mryn "wikilink").

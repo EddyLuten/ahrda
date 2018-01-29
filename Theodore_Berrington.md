@@ -1,0 +1,1 @@
+[thumb|right|250px|Ted in all his glory](/File:ted.jpg "wikilink")
