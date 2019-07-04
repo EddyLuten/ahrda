@@ -3,9 +3,9 @@
 Welcome to the **[Ahrda](World/Arhda.md)** Wiki\!
 
 On this Wiki you will find just about everything regarding the Dungeons
-& Dragons [Adventures](/adventures),
+& Dragons [Adventures](Adventures),
 [characters](Characters), and
-[locations](Regions) on the fictional world of
+[locations](World/Regions) on the fictional world of
 [Ahrda](World/Arhda.md).
 
 If you're a new player and this seems a bit overwhelming, check out the
@@ -37,7 +37,7 @@ regions.](/images/World_Map_Handout.jpg)
 
 ## Lore and History
 
-  - [Mhur](Regions/Mhur.md) - Gruumsh and the position of Orcs in the
+  - [Mhur](World/Regions/Mhur.md) - Gruumsh and the position of Orcs in the
     world
   - [Ascension of D'arr](Timeline/Ascension_of_D'arr.md) - Tells the
     tale of D'arr, dragon queen
