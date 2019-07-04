@@ -16,5 +16,3 @@ translations.
 | Ord      | Town                |
 
 When applied to names, the apostrophes may be omitted.
-
-[Category:Meta](/Category:Meta "wikilink")

@@ -1,4 +1,4 @@
-Rayna's Castle is a location in [Brinnar](/Brinnar "wikilink") between
+Rayna's Castle is a location in [Brinnar](../Regions/Brinnar "wikilink") between
 the city of [Freeburg](/Freeburg "wikilink") and the town of [Crow's
 Haven](/Crow's_Haven "wikilink") and is currently the headquarters of
 the Brinnian [Human Trinity](/Human_Trinity "wikilink") faction.
@@ -41,10 +41,5 @@ Cooper](/Godrick_Cooper "wikilink").
 Rayna's body was put to rest deep within the dungeons beneath her
 castle. Over the years, the castle fell into disrepair and Rayna's
 Castle became known as "Rayna's Ruins" until recently, when [Francis of
-Drenthe](/Drenthe_Family "wikilink") and the [Human
+Drenthe](../../NPCS/Drenthe_Family "wikilink") and the [Human
 Trinity](/Human_Trinity "wikilink") rebuilt it for their own purposes.
-
-[Category:History](/Category:History "wikilink")
-[Category:Lore](/Category:Lore "wikilink")
-[Category:Brinnar](/Category:Brinnar "wikilink")
-[Category:Locations](/Category:Locations "wikilink")

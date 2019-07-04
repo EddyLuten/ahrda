@@ -18,7 +18,7 @@ __TOC__
       - It's totally fine to use material from previous editions or
         Pathfinder.
   - Campaigns take place in a fictional fantasy world called
-    [Ahrda](/Ahrda "wikilink").
+    [Ahrda](World/Arhda.md).
   - The focus of the games tends to be more around Role Playing and
     story than combat.
   - It's probably a good idea to pick up a copy of the 5th edition
@@ -53,14 +53,3 @@ __TOC__
     provided.
   - **Optional:** a character mini, we *do* play with paper maps. You
     can borrow a mini if you don't have one.
-
-## Digital Media
-
-  - [Player's
-    Handbook](https://drive.google.com/open?id=0B43ddrewGx7fZVRaRC1iMVk1Rlk)
-  - [Dungeon Master's
-    Guide](https://drive.google.com/open?id=0B43ddrewGx7fTGVkSHJsdVgxd0E)
-  - [Monster
-    Manual](https://drive.google.com/open?id=0B43ddrewGx7fbXZKcWtVczQ2ZkU)
-
-[Category:Meta](/Category:Meta "wikilink")
