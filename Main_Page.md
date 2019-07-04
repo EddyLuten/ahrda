@@ -1,4 +1,4 @@
-[left|100px|How we roll.](images/Dice.jpg)
+![left|100px|How we roll.](images/Dice.jpg)
 
 Welcome to the **[Ahrda](Regions/Ahrda.md)** Wiki\!
 
@@ -13,7 +13,7 @@ If you're a new player and this seems a bit overwhelming, check out the
 
 ## Key Pages
 
-[right|link=Ahrda|thumb|500px|A global overview of Ahrda's
+![right|link=Ahrda|thumb|500px|A global overview of Ahrda's
 regions.](/images/World_Map_Handout.jpg)
 
   - **[New Players](/New_Players "wikilink")** - a good starting point
