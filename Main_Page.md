@@ -1,24 +1,20 @@
-[left|100px|How we roll.](/Image:Dice.jpg "wikilink")
+[left|100px|How we roll.](images/Dice.jpg)
 
-Welcome to the **[Ahrda](/Ahrda "wikilink")** Wiki\!
+Welcome to the **[Ahrda](Regions/Ahrda.md)** Wiki\!
 
 On this Wiki you will find just about everything regarding the Dungeons
-& Dragons [campaigns](/:Category:Campaigns "wikilink"),
-[characters](/:Category:Characters "wikilink"), and
-[locations](/:Category:Locations "wikilink") on the fictional world of
-[Ahrda](/Ahrda "wikilink").
+& Dragons [Adventures](/adventures),
+[characters](Characters), and
+[locations](Regions) on the fictional world of
+[Ahrda](Regions/Ahrda.md).
 
 If you're a new player and this seems a bit overwhelming, check out the
-[new players page](/New_Players "wikilink") first.
-
-Feel free to edit or create pages in this Wiki, but please [register an
-account](http://ahrda.info/index.php?title=Special:UserLogin&returnto=Main+Page&type=signup)
-before you do so.
+[new players page](/New_Players.md) first.
 
 ## Key Pages
 
 [right|link=Ahrda|thumb|500px|A global overview of Ahrda's
-regions.](/File:World_Map_Handout.jpg "wikilink")
+regions.](/images/World_Map_Handout.jpg)
 
   - **[New Players](/New_Players "wikilink")** - a good starting point
     if you're a new player
