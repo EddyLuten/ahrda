@@ -18,7 +18,7 @@ __TOC__
       - It's totally fine to use material from previous editions or
         Pathfinder.
   - Campaigns take place in a fictional fantasy world called
-    [Ahrda](World/Arhda.md).
+    [Ahrda](World/Ahrda.md).
   - The focus of the games tends to be more around Role Playing and
     story than combat.
   - It's probably a good idea to pick up a copy of the 5th edition

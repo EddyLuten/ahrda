@@ -1,6 +1,6 @@
 These additions to the base material comes from other official sources.
 Please replace any names of places and people with those from
-[Ahrda](../World/Arhda.md "wikilink") wherever it's possible.
+[Ahrda](../World/Ahrda.md "wikilink") wherever it's possible.
 
 ## Character Backgrounds
 

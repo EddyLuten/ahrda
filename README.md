@@ -1,12 +1,12 @@
 ![left|100px|How we roll.](images/Dice.jpg)
 
-Welcome to the **[Ahrda](World/Arhda.md)** Wiki\!
+Welcome to the **[Ahrda](World/Ahrda.md)** Wiki\!
 
 On this Wiki you will find just about everything regarding the Dungeons
 & Dragons [Adventures](Adventures),
 [characters](Characters), and
 [locations](World/Regions) on the fictional world of
-[Ahrda](World/Arhda.md).
+[Ahrda](World/Ahrda.md).
 
 If you're a new player and this seems a bit overwhelming, check out the
 [new players page](/New_Players.md) first.
@@ -21,7 +21,7 @@ regions.](/images/World_Map_Handout.jpg)
   - [Non-Base Material](Utilties/Non-Base_Material.md) - a list of all
     the non-base material provided in the expansion modules (spells,
     classes, backgrounds, etc.)
-  - [Ahrda](World/Arhda.md) - overview of the world and a good entry
+  - [Ahrda](World/Ahrda.md) - overview of the world and a good entry
     point to the rest of the Wiki
 
 ## Campaigns
