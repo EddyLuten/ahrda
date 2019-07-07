@@ -1,6 +1,6 @@
 These additions to the base material comes from other official sources.
 Please replace any names of places and people with those from
-[Ahrda](/Ahrda "wikilink") wherever it's possible.
+[Ahrda](../World/Ahrda.md "wikilink") wherever it's possible.
 
 ## Character Backgrounds
 
@@ -203,5 +203,3 @@ Abyss*
 | 8   | Years ago,k a vicious noble named Ghazim DuLoc was implicated in the death of someone you cared about. The crime was covered up, though, and DuLoc disappeared. Rumor has it the Zhentarim aided his escape, but you've sworn to find him one day.    |
 | 9   | Years ago, you lost people you loved in a raid by creatures from the Underdark. They disappeared without a trace, either slain or taken into the depths, and you've always wondered whether they might still be alive and held as prisoners.          |
 | 10  | You know the dwarf hold of Gauntlgrym well, having fought alongside the dwarves to help reclaim it. King Bruenor Battlehammer congratulated you on your valor and you know the price the dwarves paid in blood to regain their home.                  |
-
-[Category:Meta](/Category:Meta "wikilink")
