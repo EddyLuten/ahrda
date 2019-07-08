@@ -1,4 +1,4 @@
-[thumb|800px|A global overview of Ahrda's
+![thumb|800px|A global overview of Ahrda's
 regions.](../images/World_Map_Handout.jpg "wikilink")
 
 This page attempts to outline the major areas and history of Ahrda. For
