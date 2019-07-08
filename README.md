@@ -28,8 +28,7 @@ regions.](/images/World_Map_Handout.jpg)
 
   - **[Dungeons & Drunkards](Adventures/Dungeons_&_Drunkards)** - Main
     Friday night campaign
-  - **[A Darker Heart](Adventures/A_Darker_Heart.md "wikilink")** - Bi-weekly Sunday
-    evening campaign
+  - **[Man Vs Owlbear](Adventures/Man_vs_Owlbear/Man_vs_Owlbear.md)** - A survival heavy game set in the mountains of Brend.
   - [Seagulls & Calamari](Adventures/Seagulls_&_Calamari.md "wikilink") - One (well,
     really two) shot campaign
   - [Dungeons & Dwarves](Adventures/Dungeons_&_Dwarves.md "wikilink") - A two-shot
