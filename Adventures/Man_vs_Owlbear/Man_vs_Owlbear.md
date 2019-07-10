@@ -2,7 +2,7 @@
 ## Players
 
   - James as TBD
-  - Jarod as TBD
+  - Jared as TBD
   - Nate as TBD
   - Joel as GM
 
