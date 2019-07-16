@@ -1,6 +1,6 @@
 **Climate:** Warm, Mediterranean \
 **Architecture:** Egyptian / Greek \
-**Inhabitants:** Tieflings, anyone looking for a good time \
+**Inhabitants:** Tieflings, anyone looking for a good time 
 
 Tiefling Homeland
 Used to be humans, turned tiefling due to a deal struck with Asmodeus to 
