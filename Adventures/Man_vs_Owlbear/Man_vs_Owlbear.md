@@ -3,7 +3,7 @@
 
   - James as TBD
   - Jarod as [Einbjorn](../../Characters/Einbjorn.md)
-  - Nate as [Rat](../../Characters/Rad.md)
+  - Nate as [Rat](../../Characters/Rat.md)
   - Joel as GM
 
 ## Notable NPCs
