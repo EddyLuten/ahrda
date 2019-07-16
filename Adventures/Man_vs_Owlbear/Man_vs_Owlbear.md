@@ -2,7 +2,7 @@
 ## Players
 
   - James as TBD
-  - Jarod as [Einbjorn](../../Characters/Einbjorn.md)
+  - Jared as [Einbjorn](../../Characters/Einbjorn.md)
   - Nate as [Rat](../../Characters/Rat.md)
   - Joel as GM
 
