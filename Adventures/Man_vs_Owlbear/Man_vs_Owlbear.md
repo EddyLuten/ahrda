@@ -1,9 +1,9 @@
 
 ## Players
 
-  - James as TBD
-  - Jared as [Einbjorn](../../Characters/Einbjorn.md)
-  - Nate as [Rat](../../Characters/Rat.md)
+  - James as [Eli the Tiefling Ranger](../../Characters/Eli.md)
+  - Jared as [Einbjorn the BugBearian](../../Characters/Einbjorn.md)
+  - Nate as [Rat the Fallen Aasimar Warlock](../../Characters/Rat.md)
   - Joel as GM
 
 ## Notable NPCs
