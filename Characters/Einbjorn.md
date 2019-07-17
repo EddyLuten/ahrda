@@ -3,8 +3,13 @@ Bugbearian [Man vs. Owlbear](../Campaigns/Man_vs_Owlbear/Man_vs_Owlbear.md)
 
 
 ## **Appearance**
+Einbjorn is 7ft tall and his thick coat of course brown fur makes is already massive frame even more imposing. 
+His body is topped with an utterly huge golinoid head, large pointy ears, sharp teet with fangs protruding from his lower lips.
+
+Currently his coat is matted with mud, sparse amounts of blood and other grime that has settled in over time, only covered with scraps of the clothing he had when he was captured
 
 ## **Personality**
+ I've mostly been forced to adopt a "shoot first, ask questions later" outlook.  Before then I was perfectly friendly, but generally on the quiet side. 
 
 ## **Background**
 I'm from a tiny isolated village named Norheim in the North Eastern corner of Brend, deep within the Forngard Forest. My clan found me as a tiny cub alone in the forest. They took me in and raised me as one of their own; teaching me right from wrong and how to fight and survive in the rough wilderness. My people are expert hunters, but our methods would be considered strange and barbaric by most people. Instead of using a bow, we would instead sneak up on our prey and kill them using a swift swing of an axe. While unorthodox, it was certainly effective. I was always the best at sneaking up on an animal. The elders said it was in my blood. Literally, something about bugbear make them excellent at sneaking. I think it's our furry feet.
