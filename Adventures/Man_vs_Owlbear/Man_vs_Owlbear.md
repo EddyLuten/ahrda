@@ -7,7 +7,7 @@
   - Joel as GM
 
 ## Notable NPCs
-*Camp Guards:* 
+*Camp Guards:* \
 Suleiman - head of the camp. Man of peace is anything but \
 Charly - total dick \
 Farrell - pleasant enough \
