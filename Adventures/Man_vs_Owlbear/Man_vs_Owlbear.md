@@ -43,5 +43,6 @@ The apprentices, young capable men and women who were inexperienced combatants w
 This isn't to say that life in the camp isn't without issues. Injuries and death are relatively common, but nothing as great as the bite of the cold the previous winter. There weren't enough supplies to go around. Frostbite, illness and hypothermia caused the death of many. The ranks were replaced shortly after from other captive towns and villages as soon as the passes opened, but as the changing of seasons fast approaches and the supplies have not been bolstered above the numbers of the previous winter it is not looking good for the coming months.
 
 ## Plot
+![right|link=RAT|thumb|500px|Mining Camp](../../images/mine.PNG)
 
 ### Game 1
