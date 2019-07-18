@@ -7,21 +7,21 @@
   - Joel as GM
 
 ## Notable NPCs
-*Camp Guards:* 
-Suleiman - head of the camp. Man of peace is anything but
-Charly -total dick
-Farrell - pleasant enough
-Fausto - Mining master
-Jahiem - acting priest - will be cooperative
-Lowel - night guard
-Miller - animal trainer
-Vernon - general crafts
-Allon - Night guard
-Makaila - Mine Guard
-Valeriana - the strongest of the guards
-Silke - Deep Mine guard
-Kayli - Smithy
-Deanna - toil way guard
+*Camp Guards:* \
+Suleiman - head of the camp. Man of peace is anything but \
+Charly - total dick \
+Farrell - pleasant enough \
+Fausto - Mining master \
+Jahiem - acting priest - will be cooperative \
+Lowel - night guard \
+Miller - animal trainer \
+Vernon - general crafts \
+Allon - Night guard \
+Makaila - Mine Guard \
+Valeriana - the strongest of the guards \
+Silke - Deep Mine guard \
+Kayli - Smithy \
+Deanna - toil way guard \
 Anne - quartermaster
 
 
